@@ -16,7 +16,7 @@ public class AlbertaCovid19SummaryData {
     private int activeCases;
     private int currentlyHospitalized;
     private int currentlyInICU;
-    private int getCumulativeNumberOfDeaths;
+    private int cumulativeNumberOfDeaths;
     private int numberOfDeaths;
     private int numberOfVariantsOfConcern;
     private double percentPositivity;
