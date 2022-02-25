@@ -11,10 +11,16 @@ import org.mapstruct.factory.Mappers;
 @Mapper(unmappedTargetPolicy = ReportingPolicy.IGNORE)
 public interface TodoItemMapper {
 
-    TodoItemMapper INSTANCE = Mappers.getMapper( TodoItemMapper.class );
+    TodoItemMapper INSTANCE = Mappers.getMapper(TodoItemMapper.class);
 
+    @Mappings({
+            @Mapping(target = "todoitemId", source = "entity.id")
+    })
     TodoItemDto toDto(TodoItem entity);
 
+    @Mappings({
+            @Mapping(target = "id", source = "todoitemId")
+    })
     TodoItem toEntity(TodoItemDto dto);
 
 }

@@ -1,4 +1,4 @@
-package common.validation;
+package common.validator;
 
 import jakarta.json.Json;
 import jakarta.json.JsonObjectBuilder;

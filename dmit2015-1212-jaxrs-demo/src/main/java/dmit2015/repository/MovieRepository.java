@@ -7,10 +7,10 @@ import jakarta.transaction.Transactional;
 
 @ApplicationScoped
 @Transactional
-public class MovieRepository extends AbstractJpaRepository<Movie,Long> {
+public class MovieRepository extends AbstractJpaRepository<Movie, Long> {
 
-     public MovieRepository() {
+    public MovieRepository() {
         super(Movie.class);
-     }
+    }
 
 }

@@ -15,31 +15,25 @@ import java.util.*;
  * This abstract JPA repository contains common code to manage an JPA entity.
  * To use this abstract class, create a new Java class that extends (inherits) from this Java class and use the
  * super keyword to access methods in this class.
- *
+ * <p>
  * The following example creates a JPA repository for the Country entity in the Oracle HR schema:
  *
-
- @jakarta.enterprise.context.ApplicationScoped
- @jakarta.transaction.Transactional
- public class RegionRepository extends AbstractJpaRepository<Region,Long> {
-
-    public RegionRepository() {
-        super(Region.class);
-    }
-
- }
-
- @jakarta.enterprise.context.ApplicationScoped
- @jakarta.transaction.Transactional
- public class CountryRepository extends AbstractJpaRepository<Country,String> {
-
-     public CountryRepository() {
-        super(Country.class);
-     }
- }
-
- *
  * @version 2022.02.06
+ * @jakarta.enterprise.context.ApplicationScoped
+ * @jakarta.transaction.Transactional public class RegionRepository extends AbstractJpaRepository<Region,Long> {
+ * <p>
+ * public RegionRepository() {
+ * super(Region.class);
+ * }
+ * <p>
+ * }
+ * @jakarta.enterprise.context.ApplicationScoped
+ * @jakarta.transaction.Transactional public class CountryRepository extends AbstractJpaRepository<Country,String> {
+ * <p>
+ * public CountryRepository() {
+ * super(Country.class);
+ * }
+ * }
  */
 
 public abstract class AbstractJpaRepository<E extends Serializable, ID> {
@@ -50,15 +44,18 @@ public abstract class AbstractJpaRepository<E extends Serializable, ID> {
         this.entityType = entityType;
     }
 
-    /** The persistence unit that is defined in persistence.xml to use.
-     * You can omit the unitName if persistence.xml contains only one persistence unit. */
-    @PersistenceContext(unitName = "mssql-jpa-pu")
+    /**
+     * The persistence unit that is defined in persistence.xml to use.
+     * You can omit the unitName if persistence.xml contains only one persistence unit.
+     */
+    @PersistenceContext//(unitName = "mssql-jpa-pu")
     private EntityManager _entityManager;
 
     /**
      * Make an instance managed and persistent.
+     *
      * @param entity entity instance
-     * @param <E> entity class type
+     * @param <E>    entity class type
      */
     public <E> void create(E entity) {
         _entityManager.persist(entity);
@@ -69,7 +66,7 @@ public abstract class AbstractJpaRepository<E extends Serializable, ID> {
      * Search for an entity of the specified class and primary key.
      * If the entity instance is contained in the persistence context, it is returned from there.
      *
-     * @param id primary key
+     * @param id   primary key
      * @param <ID> primary key class type
      * @return
      */
@@ -80,7 +77,7 @@ public abstract class AbstractJpaRepository<E extends Serializable, ID> {
     /**
      * Find entity by primary key and return an Optional
      *
-     * @param id primary key value
+     * @param id   primary key value
      * @param <ID> primary key class type
      * @return an Optional with the entity object
      */
@@ -100,7 +97,7 @@ public abstract class AbstractJpaRepository<E extends Serializable, ID> {
     /**
      * Get the data from the database instead of the second-level cache.
      *
-     * @param id primary key value
+     * @param id   primary key value
      * @param <ID> primary key class type
      * @return
      */
@@ -126,7 +123,7 @@ public abstract class AbstractJpaRepository<E extends Serializable, ID> {
      * Return a list of entity instance for the given range
      *
      * @param from the index of the first entity instance
-     * @param to the index of the last entity instance
+     * @param to   the index of the last entity instance
      * @return a list of entity instance
      */
     public List<E> findRange(int from, int to) {
@@ -151,8 +148,9 @@ public abstract class AbstractJpaRepository<E extends Serializable, ID> {
 
     /**
      * Merge the state of the given entity into the current persistence context.
+     *
      * @param entity entity instance
-     * @param <E> entity class type
+     * @param <E>    entity class type
      * @return the managed instance that the state was merged to
      */
     public <E> E update(E entity) {
@@ -162,18 +160,20 @@ public abstract class AbstractJpaRepository<E extends Serializable, ID> {
 
     /**
      * Remove the entity instance.
+     *
      * @param entity entity instance
      */
     public <E> void remove(E entity) {
         if (isAttached(entity)) {
             _entityManager.remove(entity);
         } else {
-            _entityManager.remove( _entityManager.merge(entity) );
+            _entityManager.remove(_entityManager.merge(entity));
         }
     }
 
     /**
      * Remove the entity instance using the primary key value
+     *
      * @param id primary key value
      */
     public <ID> void delete(ID id) {

@@ -3,6 +3,7 @@ package dmit2015.repository;
 import common.config.ApplicationConfig;
 
 import dmit2015.entity.Movie;
+import jakarta.validation.ConstraintViolationException;
 import org.jboss.arquillian.container.test.api.Deployment;
 import org.jboss.arquillian.junit5.ArquillianExtension;
 import org.jboss.shrinkwrap.api.ShrinkWrap;
@@ -52,6 +53,17 @@ public class MovieRepositoryIT {
                 .addAsResource("META-INF/persistence.xml")
                 .addAsResource("META-INF/sql/import-data.sql")
                 .addAsWebInfResource(EmptyAsset.INSTANCE,"beans.xml");
+    }
+
+    @Order(6)
+    @Test void shouldFailToCreate() {
+        Movie emptyMovie = new Movie();
+        Exception exception = assertThrows(ConstraintViolationException.class, () -> {
+            _movieRepository.add(emptyMovie);
+        });
+        assertTrue(exception.getMessage().contains("The Title field is required"));
+//        assertTrue(exception.getMessage().contains("The field Title must be a")); - //requires something in the title
+        assertTrue(exception.getMessage().contains("The Release Date field is required"));
     }
 
     @Order(2)

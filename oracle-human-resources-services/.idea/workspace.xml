@@ -288,21 +288,13 @@
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_20.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_3_0_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_3_0_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_glassfish_jaxb_txw2_3_0_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_hibernate_hibernate_core_jakarta_5_6_1_Final.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_7_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_mapstruct_mapstruct_1_4_2_Final.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
@@ -311,18 +303,70 @@
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/oracle-hr-services.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/dto/JobEntityDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/mapper/JobsEntityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/common/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/common/jpa/AbstractJpaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/common/validator/BeanValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/entity/CountriesEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/entity/DepartmentsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/entity/EmpDetailsViewEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/entity/EmployeesEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/entity/JobHistoryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/entity/JobHistoryEntityPK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/entity/JobsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/entity/LocationsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/entity/RegionsEntity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/oraclehrservices/HelloApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/oraclehrservices/HelloResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/resource/JobsEntityDtoResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/repository/JobsEntityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/repository/LocationsEntityRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/resource/JobsEntityResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/java/dmit2015/resource/LocationsEntityResource.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/resources/META-INF/beans.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oracle-hr-services/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/oracle_human_resources_services_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/oracle_human_resources_services_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_platform_jakarta_jakartaee_web_api_9_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_jakarta_5_6_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_7_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oracle-human-resources-services.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/oraclehumanresourcesservices/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/oraclehumanresourcesservices/HelloResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dimt2015-1212-oa01-jpa-demo/src/main/java/dmit2015/entity/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dimt2015-1212-oa01-jpa-demo/src/main/java/dmit2015/entity/Movie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dimt2015-1212-oa01-jpa-demo/src/test/java/dmit2015/repository/MovieRepositoryIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dimt2015-1212-oa01-jpa-demo/src/test/java/dmit2015/repository/MovieRepositoryIT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -332,6 +376,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="25WruwpAzZkxuQY1vtlcNHyoecw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -339,9 +400,99 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBoss/WildFly 26.0.0.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 26.0.0.Final" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/oracle-human-resources-services-1.0-SNAPSHOT" />
+      <deployment>
+        <artifact name="oracle-human-resources-services:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" value="" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="36075" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="oracle-human-resources-services:war exploded" />
+        </option>
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -351,8 +502,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645653915584</updated>
-      <workItem from="1645653917188" duration="2000" />
+      <workItem from="1645653917188" duration="2852000" />
+      <workItem from="1645756610384" duration="343000" />
+      <workItem from="1645756989421" duration="29000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
