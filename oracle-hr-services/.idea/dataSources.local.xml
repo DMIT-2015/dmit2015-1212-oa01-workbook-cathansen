@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-213.6777.52">
+    <data-source name="Oracle Human Resources schema" uuid="d459e697-ea5e-42a8-b4fa-74f19f60b557">
+      <database-info product="Oracle" version="Oracle Database 21c Express Edition Release 21.0.0.0.0 - Production&#10;Version 21.3.0.0.0" jdbc-version="4.2" driver-name="Oracle JDBC driver" driver-version="21.1.0.0.0" dbms="ORACLE" exact-version="21.0.0.0.0" exact-driver-version="21.1">
+        <extra-name-characters>$#</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>HR</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="@" />
+            <name qname="PUBLIC" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+      <introspection-level>3</introspection-level>
+    </data-source>
+  </component>
+</project>
