@@ -10,378 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ff395e7-9da5-4da4-aca9-84ac1af0da66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/artifacts/dmit2015_1212_jaxrs_demo_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/artifacts/dmit2015_1212_jaxrs_demo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_9_4_1_jre11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__com_oracle_database_jdbc_ojdbc11_21_5_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__com_sun_activation_jakarta_activation_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__io_rest_assured_json_path_4_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__io_rest_assured_rest_assured_4_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__io_rest_assured_rest_assured_common_4_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__io_rest_assured_xml_path_4_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__jakarta_json_bind_jakarta_json_bind_api_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__jakarta_json_jakarta_json_api_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__jakarta_platform_jakarta_jakartaee_web_api_9_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_maven_builder_support_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_maven_model_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_maven_resolver_provider_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_maven_settings_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_resolver_maven_resolver_api_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_resolver_maven_resolver_connector_basic_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_resolver_maven_resolver_impl_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_resolver_maven_resolver_spi_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_resolver_maven_resolver_transport_wagon_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_resolver_maven_resolver_util_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_wagon_wagon_file_3_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_lightweight_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_shared_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_3_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apache_sshd_sshd_common_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_codehaus_groovy_groovy_3_0_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_3_0_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_3_0_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_inject_0_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_eclipse_yasson_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_glassfish_jakarta_json_module_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_glassfish_jaxb_txw2_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_6_0_0_CR1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_hibernate_orm_hibernate_core_6_0_0_CR1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_7_0_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_hsqldb_hsqldb_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_api_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_impl_base_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_spi_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_impl_base_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_spi_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_api_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_impl_base_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_spi_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_api_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_impl_base_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_spi_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_transaction_api_1_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_transaction_impl_base_1_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_transaction_jta_1_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_extension_arquillian_transaction_spi_1_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_junit5_arquillian_junit5_container_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_junit5_arquillian_junit5_core_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_protocol_arquillian_protocol_jmx_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_protocol_arquillian_protocol_servlet_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_protocol_arquillian_protocol_servlet_jakarta_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_api_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_impl_base_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_spi_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_cdi_jakarta_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_ejb_jakarta_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_initialcontext_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_resource_jakarta_1_7_0_Alpha10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_jboss_dmr_1_5_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_2_0_12_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_river_2_0_12_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_modules_jboss_modules_1_11_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_msc_jboss_msc_1_4_13_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_remoting_jboss_remoting_5_0_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_remotingjmx_remoting_jmx_3_0_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_api_base_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_impl_base_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_spi_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_maven_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_impl_maven_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_maven_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_api_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_impl_base_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_spi_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_threads_jboss_threads_2_4_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_xnio_xnio_api_3_8_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jboss_xnio_xnio_nio_3_8_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_jsoup_jsoup_1_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_junit_platform_junit_platform_runner_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_api_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_commons_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_mapstruct_mapstruct_1_4_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_mariadb_jdbc_mariadb_java_client_2_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_postgresql_postgresql_42_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_35.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_35.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_common_5_0_0_Alpha2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_container_managed_5_0_0_Alpha2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_protocol_jmx_5_0_0_Alpha2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_testenricher_msc_5_0_0_Alpha2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_client_wildfly_client_config_1_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_common_wildfly_common_1_5_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_core_wildfly_controller_client_16_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_core_wildfly_jmx_16_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_core_wildfly_launcher_16_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_core_wildfly_protocol_16_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_core_wildfly_server_16_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_plugins_wildfly_plugin_core_2_0_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_asn1_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_audit_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_auth_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_auth_server_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_auth_server_deprecated_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_auth_server_http_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_auth_server_sasl_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_auth_util_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_base_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_client_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_credential_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_credential_source_deprecated_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_credential_source_impl_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_credential_store_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_digest_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_encryption_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_http_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_http_basic_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_http_bearer_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_http_cert_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_http_deprecated_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_http_digest_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_http_external_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_http_form_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_http_spnego_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_http_sso_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_http_util_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_jacc_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_jaspi_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_json_util_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_keystore_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_mechanism_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_mechanism_digest_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_mechanism_gssapi_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_mechanism_http_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_mechanism_oauth2_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_mechanism_scram_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_password_impl_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_permission_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_provider_util_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_realm_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_realm_jdbc_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_realm_ldap_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_realm_token_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_anonymous_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_auth_util_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_deprecated_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_digest_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_entity_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_external_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_gs2_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_gssapi_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_localuser_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_oauth2_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_otp_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_plain_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_sasl_scram_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_security_manager_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_security_manager_action_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_ssl_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_util_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_x500_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_x500_cert_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_x500_cert_acme_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_x500_cert_util_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_x500_deprecated_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_x500_principal_1_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/MovieHttpRequest.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/TodoItemDtoHttpRequest.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/TodoItemHttpRequest.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/dmit2015-1212-jaxrs-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/common/jpa/AbstractJpaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/common/validator/BeanValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/config/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/config/JAXRSConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/dto/MovieDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/dto/TodoItemDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/entity/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/entity/TodoItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/mapper/MovieMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/mapper/TodoItemMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/repository/MovieRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/repository/TodoItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/resource/HelloWorldResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/resource/MovieDtoResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/resource/MovieResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/resource/TodoItemDtoResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/resource/TodoItemResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/resources/META-INF/sql/import-data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/resources/images/hello_world.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/test/java/dmit2015/repository/TodoItemRepositoryIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/test/java/dmit2015/resource/AllArquillianTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/test/java/dmit2015/resource/TodoItemResourceArquillianRestAssuredIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/test/java/dmit2015/resource/TodoItemResourceRestAssuredIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/test/java/dmit2015/resource/TodoItemResourceRestAssuredUsingJsonbIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/oracle_hr_services_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/oracle_hr_services_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_database_jdbc_ojdbc11_21_5_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_platform_jakarta_jakartaee_web_api_9_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_7_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_4_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oracle-hr-services.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/config/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/jpa/AbstractJpaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/validator/BeanValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/dto/EmployeesEntityDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/dto/JobsEntityDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/dto/LocationsEntityDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/entity/CountriesEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/entity/DepartmentsEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/entity/EmpDetailsViewEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/entity/EmployeesEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/entity/JobHistoryEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/entity/JobHistoryEntityPK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/entity/JobsEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/entity/LocationsEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/entity/RegionsEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/mapper/EmployeesEntityMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/mapper/JobsEntityMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/mapper/LocationsEntityMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/oraclehrservices/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/oraclehrservices/HelloResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/repository/EmployeesEntityRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/repository/JobsEntityRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/repository/LocationsEntityRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/resource/EmployeesEntityDtoResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/resource/JobsEntityDtoResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/resource/JobsEntityResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/resource/LocationsEntityDtoResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/resource/LocationsEntityResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/artifacts/oracle_human_resources_services_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/artifacts/oracle_human_resources_services_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__com_sun_activation_jakarta_activation_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__jakarta_platform_jakarta_jakartaee_web_api_9_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_glassfish_jaxb_txw2_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_hibernate_hibernate_core_jakarta_5_6_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_7_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/oracle-human-resources-services.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/src/main/java/dmit2015/oraclehumanresourcesservices/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/src/main/java/dmit2015/oraclehumanresourcesservices/HelloResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oracle-human-resources-services/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dimt2015-1212-oa01-jpa-demo/src/main/java/dmit2015/entity/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dimt2015-1212-oa01-jpa-demo/src/main/java/dmit2015/entity/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dimt2015-1212-oa01-jpa-demo/src/test/java/dmit2015/repository/MovieRepositoryIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dimt2015-1212-oa01-jpa-demo/src/test/java/dmit2015/repository/MovieRepositoryIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/src/main/java/dmit2015/web/SeleniumFileDownload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/artifacts/dmit2015_1212_jaxrs_demo_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/.idea/artifacts/dmit2015_1212_jaxrs_demo_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/dmit2015-1212-jaxrs-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/dmit2015-1212-jaxrs-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dmit2015-1212-jaxrs-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d459e697-ea5e-42a8-b4fa-74f19f60b557.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d459e697-ea5e-42a8-b4fa-74f19f60b557.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -457,15 +91,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -637,8 +269,17 @@
       <workItem from="1645659957282" duration="9502000" />
       <workItem from="1645756072348" duration="856000" />
       <workItem from="1645757020905" duration="1292000" />
-      <workItem from="1645758362780" duration="8082000" />
+      <workItem from="1645758362780" duration="8289000" />
+      <workItem from="1646071617921" duration="648000" />
     </task>
+    <task id="LOCAL-00001" summary="Feb 16 Class">
+      <created>1645828924174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645828924174</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -646,5 +287,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Feb 16 Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb 16 Class" />
   </component>
 </project>
