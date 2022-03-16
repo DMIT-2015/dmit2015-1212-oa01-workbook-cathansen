@@ -27,7 +27,6 @@ public class EnforcementZoneCentreItemProcessor implements ItemProcessor {
 
 //        String wktText = "POINT" + tokens[6].replaceAll("[\",]","");
 //        Point geoLocation = (org.locationtech.jts.geom.Point) new WKTReader().read(wktText);
-//        currentEnforcementZoneCentre.setGeoLocation(geoLocation);
 
         Point geoLocation = new GeometryFactory().createPoint(
                 new Coordinate(
@@ -35,7 +34,8 @@ public class EnforcementZoneCentreItemProcessor implements ItemProcessor {
                 )
         );
 
+        currentEnforcementZoneCentre.setGeoLocation(geoLocation);
 
-        return null;
+        return currentEnforcementZoneCentre;
     }
 }

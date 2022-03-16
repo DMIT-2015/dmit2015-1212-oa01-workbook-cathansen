@@ -26,7 +26,7 @@ import java.util.logging.Logger;
  * Batchlets are task oriented step that is called once.
  * It either succeeds or fails. If it fails, it CAN be restarted and it runs again.
  */
-@Named
+@Named("enforcementZoneCentreBatchlet")
 public class EnforcementZoneCentreBatchlet extends AbstractBatchlet {
 
     @PersistenceContext(unitName = "mssql-jpa-pu")
