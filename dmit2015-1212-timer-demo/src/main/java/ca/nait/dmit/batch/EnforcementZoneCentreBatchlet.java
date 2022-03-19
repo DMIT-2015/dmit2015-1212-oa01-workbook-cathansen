@@ -74,12 +74,12 @@ public class EnforcementZoneCentreBatchlet extends AbstractBatchlet {
                     Point geoLocation = (Point) new WKTReader().read(wktText);
                     currentEnforcementZoneCentre.setGeoLocation(geoLocation);
 
-                    //                Point geoLocation = new GeometryFactory().createPoint(
-                    //                        new Coordinate(
-                    //                                currentEnforcementZoneCentre.getLongitude(), currentEnforcementZoneCentre.getLatitude()
-                    //                        )
-                    //                );
-                    //                currentEnforcementZoneCentre.setGeoLocation(geoLocation);
+//                            Point geoLocation = new GeometryFactory().createPoint(
+//                                    new Coordinate(
+//                                            currentEnforcementZoneCentre.getLongitude(), currentEnforcementZoneCentre.getLatitude()
+//                                    )
+//                            );
+//                            currentEnforcementZoneCentre.setGeoLocation(geoLocation);
 
 //                    _entityManager.persist(currentEnforcementZoneCentre);
                     _enforcementRepository.create(currentEnforcementZoneCentre);

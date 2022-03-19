@@ -4,19 +4,19 @@
         <listener ref="enforcementZoneCentreJobListener"></listener>
     </listeners>
 
-<!--    <step id="downloadFileStep" next="importDataStep" >-->
-<!--        <listeners>-->
-<!--            <listener ref="enforcementZoneCentreStepListener"></listener>-->
-<!--        </listeners>-->
-<!--        <batchlet ref="downloadCsvFileBatchlet">-->
-<!--            <properties>-->
-<!--                <property name="csv_file_uri"-->
-<!--                          value="https://data.edmonton.ca/api/views/akzz-54k3/rows.csv?accessType=DOWNLOAD"/>-->
-<!--                <property name="file_download_path"-->
-<!--                          value="/home/user2015/Downloads"/>-->
-<!--            </properties>-->
-<!--        </batchlet>-->
-<!--    </step>-->
+    <step id="downloadFileStep" next="importDataStep" >
+        <listeners>
+            <listener ref="enforcementZoneCentreStepListener"></listener>
+        </listeners>
+        <batchlet ref="downloadCsvFileBatchlet">
+            <properties>
+                <property name="csv_file_uri"
+                          value="https://data.edmonton.ca/api/views/akzz-54k3/rows.csv?accessType=DOWNLOAD"/>
+                <property name="file_download_path"
+                          value="/home/user2015/Downloads"/>
+            </properties>
+        </batchlet>
+    </step>
 
     <step id="importDataStep">
         <listeners>
