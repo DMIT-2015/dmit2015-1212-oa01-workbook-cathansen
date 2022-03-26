@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b85446f1-f896-42fe-b852-6e2a6a4caa13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/dmit20015_1212_jsf_demo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/dmit20015_1212_jsf_demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_10_2_0_jre17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_enterprise_jakarta_enterprise_cdi_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_interceptor_jakarta_interceptor_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_json_bind_jakarta_json_bind_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_json_jakarta_json_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_platform_jakarta_jakartaee_web_api_9_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_microprofile_config_microprofile_config_api_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_microprofile_fault_tolerance_microprofile_fault_tolerance_api_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_microprofile_health_microprofile_health_api_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_microprofile_jwt_microprofile_jwt_auth_api_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_microprofile_metrics_microprofile_metrics_api_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_microprofile_openapi_microprofile_openapi_api_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_microprofile_opentracing_microprofile_opentracing_api_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_microprofile_rest_client_microprofile_rest_client_api_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_faces_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_jakarta_5_6_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_7_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_omnifaces_omnifaces_4_0_M13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_primefaces_primefaces_jakarta_11_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_npm_primeflex_3_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dmit20015-1212-jsf-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/common/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/common/jpa/AbstractJpaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/common/producer/LoggerProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/common/validator/BeanValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/entity/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/entity/TodoItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/repository/MovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/repository/TodoItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/view/MovieCreateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/view/MovieDeleteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/view/MovieDetailsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/view/MovieEditController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dmit2015/view/MovieListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Movie/create.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Movie/delete.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Movie/details.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Movie/edit.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Movie/index.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsf-templates/layout.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/movie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/todo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/java/ca/nait/dmit/view/EnforcementZoneCentreListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/java/common/ejb/MonitorBatchJobSessionBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/webapp/EnforcementZoneCentre/index.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/artifacts/dmit2015_assignment05_cathansen_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/artifacts/dmit2015_assignment05_cathansen_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_10_2_0_jre17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__com_sun_activation_jakarta_activation_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_enterprise_jakarta_enterprise_cdi_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_interceptor_jakarta_interceptor_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_json_bind_jakarta_json_bind_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_json_jakarta_json_api_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_platform_jakarta_jakartaee_api_9_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_eclipse_microprofile_config_microprofile_config_api_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_eclipse_microprofile_fault_tolerance_microprofile_fault_tolerance_api_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_eclipse_microprofile_health_microprofile_health_api_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_eclipse_microprofile_jwt_microprofile_jwt_auth_api_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_eclipse_microprofile_metrics_microprofile_metrics_api_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_eclipse_microprofile_openapi_microprofile_openapi_api_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_eclipse_microprofile_opentracing_microprofile_opentracing_api_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_eclipse_microprofile_rest_client_microprofile_rest_client_api_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_geolatte_geolatte_geom_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_glassfish_jakarta_faces_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_glassfish_jaxb_txw2_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_hibernate_hibernate_core_jakarta_5_6_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_hibernate_hibernate_spatial_5_6_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_7_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_locationtech_jts_jts_core_1_18_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_omnifaces_omnifaces_4_0_M13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_postgresql_postgresql_42_2_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_primefaces_primefaces_jakarta_11_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/dmit2015-assignment05-cathansen.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/common/config/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/common/ejb/EmailSessionBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/common/ejb/MailResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/common/jpa/AbstractJpaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/common/producer/LoggerProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/common/validator/BeanValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/dmit2015/cathansen/assignment05/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/dmit2015/cathansen/assignment05/HelloResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/dmit2015/cathansen/assignment05/batch/CurrentCasesByLocalGeographicAreaBatchlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/dmit2015/cathansen/assignment05/ejb/CurrentCasesByLocalGeographicAreaTimersSessionBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/dmit2015/cathansen/assignment05/entity/CurrentCasesByLocalGeographicArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/dmit2015/cathansen/assignment05/repository/CurrentCasesByLocalGeographicAreaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/java/dmit2015/cathansen/assignment05/resource/CurrentCasesByLocalGeographicAreaResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/resources/META-INF/batch-jobs/job.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/resources/META-INF/batch.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/resources/META-INF/microprofile-config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-oa01-assignment05-cathansen/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/java/ca/nait/dmit/ejb/DemoTimersBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/java/ca/nait/dmit/ejb/DemoTimersBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/java/ca/nait/dmit/view/BatchJobSchedulerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/java/ca/nait/dmit/view/BatchJobSchedulerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/java/common/ejb/BatchJobTimerSessionBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/java/common/ejb/BatchJobTimerSessionBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/resources/META-INF/microprofile-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/resources/META-INF/microprofile-config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/webapp/WEB-INF/jsf-templates/layout.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/../dmit2015-1212-timer-demo/src/main/webapp/WEB-INF/jsf-templates/layout.xhtml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="DMIT2015 JPA Abstract Repository" />
+        <option value="DMIT2015 BeanValidator" />
+        <option value="DMIT2015 JPA Entity Repository" />
+        <option value="DMIT2015 JSF Template" />
+        <option value="DMIT2015 JSF Composition Page" />
+        <option value="DMIT2015 JSF CRUD List Controller" />
+        <option value="DMIT2015 JSF CRUD Create Controller" />
+        <option value="DMIT2015 JSF CRUD Create Page" />
+        <option value="DMIT2015 JSF CRUD List Page" />
+        <option value="DMIT2015 JSF CRUD Edit Controller" />
+        <option value="DMIT2015 JSF CRUD Edit Page" />
+        <option value="DMIT2015 JSF CRUD Details Controller" />
+        <option value="DMIT2015 JSF CRUD Details Page" />
+        <option value="DMIT2015 JSF CRUD Delete Controller" />
+        <option value="DMIT2015 JSF CRUD Delete Page" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26kCvK2jS503A4WwzSnggxG4QBr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Maven.dmit20015-1212-jsf-demo [wildfly-jar:dev-watch]">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBoss/WildFly 26.0.0.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 26.0.0.Final" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/dmit20015-1212-jsf-demo-1.0-SNAPSHOT" />
+      <deployment>
+        <artifact name="dmit20015-1212-jsf-demo:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" value="" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="dmit20015-1212-jsf-demo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="dmit20015-1212-jsf-demo [wildfly-jar:dev-watch]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="wildfly-jar:dev-watch" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.dmit20015-1212-jsf-demo [wildfly-jar:dev-watch]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b85446f1-f896-42fe-b852-6e2a6a4caa13" name="Changes" comment="" />
+      <created>1647958432737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647958432737</updated>
+      <workItem from="1647958434426" duration="18251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
