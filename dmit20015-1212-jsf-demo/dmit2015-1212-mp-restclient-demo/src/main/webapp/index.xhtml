@@ -13,20 +13,10 @@
         template="/WEB-INF/jsf-templates/layout.xhtml"
 >
 
-    <ui:param name="title" value="JSF Demo"/>
+    <ui:param name="title" value="Default Title"/>
 
     <ui:define name="maincontent">
-        <h1>JSF CRUD demo with Movie and TodoItem</h1>
 
-        <p>The current weather temperature in Edmonton is: #{weatherServiceController.weatherData.main.temp}&#176;C
-            feels like #{weatherServiceController.weatherData.main.feelsLike}&#176;C
-            with a humididty of #{weatherServiceController.weatherData.main.humidity}%.
-        </p>
-
-        <h:graphicImage name="images/movie.png" alt="Movie Image"
-                        width="480px" height="640px"/>
-        <h:graphicImage name="images/todo.png" alt="Todo Image"
-                        width="480px" height="640px"/>
 
     </ui:define>
 

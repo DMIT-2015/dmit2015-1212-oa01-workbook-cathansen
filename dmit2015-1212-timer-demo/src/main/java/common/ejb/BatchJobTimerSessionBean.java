@@ -20,12 +20,15 @@ import java.util.logging.Logger;
 @Stateless  // Must be @Stateless or @Singleton. Timer service does not support Stateful session beans
 public class BatchJobTimerSessionBean {
 
-   @Resource   // This is a container created resource
-   private TimerService _timerService;
+    @Resource   // This is a container created resource
+    private TimerService _timerService;
 
-   private Logger _logger = Logger.getLogger(BatchJobTimerSessionBean.class.getName());
+    private Logger _logger = Logger.getLogger(BatchJobTimerSessionBean.class.getName());
     // @Inject // Use only if your project includes a LoggerProducer
     // private Logger _logger;
+
+    @Inject
+    private MonitorBatchJobSessionBean _monitorBatchJobSessionBean; // This is used to monitor the status of the batch job
 
     /**
      * The annotation @Timeout method is executed when a programmatic timer expires
@@ -41,6 +44,8 @@ public class BatchJobTimerSessionBean {
             // Create a new job instance and start the first execution of that instance asynchronously.
             long executionId = jobOperator.start(batchJobXmlFilename, null);
             _logger.info("Successfully started batch job with executionId " + executionId);
+            // Create an interval timer to monitor the status of the batch job
+            _monitorBatchJobSessionBean.createTimer(executionId);
         } catch (Exception e) {
             _logger.fine(e.getMessage());
             e.printStackTrace();

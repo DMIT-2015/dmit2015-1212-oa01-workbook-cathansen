@@ -43,19 +43,14 @@
             <p:menubar>
                 <p:menuitem value="Home" icon="pi pi-fw pi-home" url="#{request.contextPath}/index.xhtml"/>
 
-                <p:menuitem value="Timers" icon="pi pi-fw pi-clock" url="#{request.contextPath}/manageTimers.xhtml"/>
-
-                <p:submenu label="Batch Jobs" icon="pi pi-fw pi-file">
-                    <p:menuitem value="Schedule Job" icon="pi pi-fw pi-list"
-                                url="#{request.contextPath}/batchJobScheduler.xhtml"/>
-                    <p:menuitem value="Schedule File Download" icon="pi pi-fw pi-download"
-                                url="#{request.contextPath}/downloadDataFile.xhtml"/>
-                </p:submenu>
-
-                <p:submenu label="EnforcementZoneCentre" icon="pi pi-fw pi-file">
-                    <p:menuitem value="List" icon="pi pi-fw pi-list"
-                                url="#{request.contextPath}/EnforcementZoneCentre/index.xhtml"/>
-                </p:submenu>
+                <f:verbatim>
+                    <p:submenu label="Movies" icon="pi pi-fw pi-file">
+                        <p:menuitem value="List" icon="pi pi-fw pi-list"
+                                    url="#{request.contextPath}/Entity/index.xhtml"/>
+                        <p:menuitem value="Create" icon="pi pi-fw pi-plus"
+                                    url="#{request.contextPath}/Movie/create.xhtml"/>
+                    </p:submenu>
+                </f:verbatim>
 
             </p:menubar>
         </h:form>

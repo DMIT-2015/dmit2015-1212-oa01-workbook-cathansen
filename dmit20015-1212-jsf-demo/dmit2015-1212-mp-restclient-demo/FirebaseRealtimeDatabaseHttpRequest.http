@@ -1,0 +1,59 @@
+### Create a new Movie (title, releaseDate, genre, rating, price)
+# curl -X PUT -d '{
+#  "alanisawesome": {
+#    "name": "Alan Turing",
+#    "birthday": "June 23, 1912"
+#  }
+#}' 'https://docs-examples.firebaseio.com/fireblog/users.json'
+POST https://dmit2015-1212-fbrtdb-demo-cat-default-rtdb.firebaseio.com/movies.json
+Content-Type: application/json
+
+{
+"title": "Dune",
+"releaseDate": "2022-03-29",
+"genre": "Comedy",
+"rating": "PG-13",
+"price": 19.99
+}
+
+### Create a new Movie (title, releaseDate, genre, rating, price)
+POST https://dmit2015-1212-fbrtdb-demo-cat-default-rtdb.firebaseio.com/movies.json
+Content-Type: application/json
+
+{
+"title": "Turning Red",
+"releaseDate": "2022-02-21",
+"genre": "Family",
+"rating": "PG",
+"price": 9.99
+}
+
+### Create a new Movie (title, releaseDate, genre, rating, price)
+POST https://dmit2015-1212-fbrtdb-demo-cat-default-rtdb.firebaseio.com/movies.json
+Content-Type: application/json
+
+{
+  "title": "A Knights Tale",
+  "releaseDate": "2002-02-21",
+  "genre": "Comedy",
+  "rating": "PG",
+  "price": 29.99
+}
+
+### GET all Movies
+GET https://dmit2015-1212-fbrtdb-demo-cat-default-rtdb.firebaseio.com/movies.json
+
+###Get one Movie by Key
+GET https://dmit2015-1212-fbrtdb-demo-cat-default-rtdb.firebaseio.com/movies/-MzL7pcrD-3k60IGX2z_.json
+
+###Update movie
+PUT https://dmit2015-1212-fbrtdb-demo-cat-default-rtdb.firebaseio.com/movies/-MzL7pcrD-3k60IGX2z_.json
+Content-Type: application/json
+
+{
+"title": "Dune",
+"releaseDate": "2022-03-29",
+"genre": "Science Fiction",
+"rating": "PG-13",
+"price": 29.95
+}
